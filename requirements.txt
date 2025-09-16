@@ -1,0 +1,8 @@
+pandas
+fastapi
+pydantic
+uvicorn
+fsspec
+gcsfs
+joblib
+scikit-learn
